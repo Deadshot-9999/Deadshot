@@ -8,7 +8,7 @@
 // If none exist yet, the curated seed list (seed-projects.json) is used so the site still works.
 import fs from 'node:fs';
 import path from 'node:path';
-import { locate } from './lib/geocode.mjs';
+import { locate, landmark } from './lib/geocode.mjs';
 
 const HERE = path.dirname(new URL(import.meta.url).pathname);
 const OUT = path.resolve(HERE, '../public/data');
@@ -87,8 +87,10 @@ async function main() {
   for (const [cat, names] of Object.entries(lm)) {
     landmarks[cat] = [];
     for (const n of names) {
-      const hit = await locate(n, n.replace(/ (metro|railway) station$/, ''));
-      if (hit) landmarks[cat].push({ name: n.replace(/ metro station$/, ' (Metro)'), lat: hit.lat, lng: hit.lng });
+      if (Array.isArray(n)) { landmarks[cat].push({ name: n[0], lat: n[1], lng: n[2] }); continue; } // fixed point
+      const hit = await landmark(cat, n);
+      if (hit) landmarks[cat].push({ name: cat === 'Metro' ? `${n} (Metro)` : n, lat: hit.lat, lng: hit.lng });
+      else console.log(`  landmark not found: ${cat} / ${n}`);
     }
   }
 

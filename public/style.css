@@ -10,6 +10,7 @@
   --chip:rgba(0,0,0,.04);--chip-line:rgba(0,0,0,.14);--shadow:0 10px 40px rgba(0,0,0,.12);color-scheme:light
 }
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 html,body{margin:0;height:100%;overflow:hidden;background:var(--bg);color:var(--text);font:13px/1.45 Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
 button,input,select,textarea{font:inherit;color:inherit}
 button{cursor:pointer}

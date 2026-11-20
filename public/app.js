@@ -104,7 +104,7 @@ function chipsFor(el, items, set, key) {
 }
 function renderFacetCounts() {
   const count = (skip, fn) => D.societies.filter(s => test(s, skip) && fn(s)).length;
-  for (const b of $('#f-kind').children) b.querySelector('small').textContent = count('kind', s => s.kind === b.dataset.v) + ' societies';
+  for (const b of $('#f-kind').children) b.querySelector('small').textContent = (n => n + (n === 1 ? ' society' : ' societies'))(count('kind', s => s.kind === b.dataset.v));
   for (const b of $('#f-bhk').children) b.querySelector('small').textContent = count('bhk', s => s.bhk.some(x => Math.min(x, 5) === +b.dataset.v));
   for (const b of $('#f-near').children) b.querySelector('small').textContent = count('near', s => s.near[b.dataset.v]?.km <= NEAR[b.dataset.v]);
 }
@@ -439,6 +439,7 @@ function theme() {
   document.documentElement.dataset.theme = light ? 'light' : 'dark';
   store.set('ff-theme', light ? 'light' : 'dark');
   setStyle(light ? 'light' : 'night');
+  $('#btn-theme').textContent = light ? 'Dark' : 'Light';
 }
 function mtab(t) {
   if (window.innerWidth > 900) return;
@@ -460,7 +461,7 @@ function downloads() {
 }
 
 async function main() {
-  if (store.get('ff-theme') === 'light') { document.documentElement.dataset.theme = 'light'; S.style = 'light'; }
+  if (store.get('ff-theme') === 'light') { document.documentElement.dataset.theme = 'light'; S.style = 'light'; $('#btn-theme').textContent = 'Dark'; }
   await load();
   buildFilters(); buildSearch(); buildList(); downloads();
   apply();
