@@ -1,0 +1,15 @@
+{
+  "name": "flat-finder-mumbai",
+  "private": true,
+  "type": "module",
+  "description": "Every housing society in Mumbai on one map.",
+  "scripts": {
+    "fetch:magicbricks": "node pipeline/sources/magicbricks.mjs",
+    "build": "NODE_USE_ENV_PROXY=1 node pipeline/build.mjs",
+    "refresh": "npm run fetch:magicbricks && npm run build",
+    "serve": "npx --yes serve public -l 5173"
+  },
+  "devDependencies": {
+    "playwright": "^1.48.0"
+  }
+}

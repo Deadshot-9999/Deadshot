@@ -1,0 +1,4045 @@
+{
+ "Versova metro station, Versova, Mumbai": null,
+ "Versova metro station, Mumbai": null,
+ "Versova, Mumbai": {
+  "lat": 19.1302521,
+  "lng": 72.8213775,
+  "osm": "way/287299861",
+  "cls": "railway:station",
+  "display": "Versova, Balasaheb Sawant Road, Seven Bungalows, Versova, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400061, India",
+  "geojson": null
+ },
+ "D N Nagar metro station, D N Nagar, Mumbai": null,
+ "D N Nagar metro station, Mumbai": null,
+ "D N Nagar, Mumbai": {
+  "lat": 19.1282826,
+  "lng": 72.8302354,
+  "osm": "way/287299866",
+  "cls": "railway:station",
+  "display": "D. N. Nagar, Jai Prakash Road, Four Bungalows, Dadabhai Naoroji Nagar, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 402205, India",
+  "geojson": null
+ },
+ "Azad Nagar metro station, Azad Nagar, Mumbai": null,
+ "Azad Nagar metro station, Mumbai": null,
+ "Azad Nagar, Mumbai": {
+  "lat": 19.1283153,
+  "lng": 72.8400381,
+  "osm": "node/3664811366",
+  "cls": "place:neighbourhood",
+  "display": "Azad Nagar, Dadabhai Naoroji Nagar, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400058, India",
+  "geojson": null
+ },
+ "Andheri metro station, Andheri, Mumbai": {
+  "lat": 19.1204067,
+  "lng": 72.8480489,
+  "osm": "way/331815666",
+  "cls": "building:train_station",
+  "display": "Andheri, Metro Station Access, Andheri East, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400069, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8479132,
+      19.120097
+     ],
+     [
+      72.8481125,
+      19.1200769
+     ],
+     [
+      72.8481877,
+      19.1207004
+     ],
+     [
+      72.8479935,
+      19.1208236
+     ],
+     [
+      72.8479132,
+      19.120097
+     ]
+    ]
+   ]
+  }
+ },
+ "Western Express Highway metro station, Western Express Highway, Mumbai": null,
+ "Western Express Highway metro station, Mumbai": null,
+ "Western Express Highway, Mumbai": {
+  "lat": 19.054918,
+  "lng": 72.8464114,
+  "osm": "way/909382860",
+  "cls": "highway:motorway",
+  "display": "Western Express Highway, Gandhi Nagar, Kherwadi, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400017, India",
+  "geojson": null
+ },
+ "Chakala metro station, Chakala, Mumbai": null,
+ "Chakala metro station, Mumbai": null,
+ "Chakala, Mumbai": {
+  "lat": 19.1152873,
+  "lng": 72.8618085,
+  "osm": "node/245671999",
+  "cls": "place:neighbourhood",
+  "display": "Chakala, MIDC, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400069, India",
+  "geojson": null
+ },
+ "Marol Naka metro station, Marol Naka, Mumbai": null,
+ "Marol Naka metro station, Mumbai": null,
+ "Marol Naka, Mumbai": {
+  "lat": 19.1081008,
+  "lng": 72.87963,
+  "osm": "way/311841876",
+  "cls": "railway:station",
+  "display": "Marol Naka, Marol Naka Metro Stn, Chimatpada, Saki Naka, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400072, India",
+  "geojson": null
+ },
+ "Saki Naka metro station, Saki Naka, Mumbai": null,
+ "Saki Naka metro station, Mumbai": null,
+ "Saki Naka, Mumbai": {
+  "lat": 19.108206,
+  "lng": 72.8828404,
+  "osm": "node/1640260039",
+  "cls": "place:suburb",
+  "display": "Saki Naka, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400072, India",
+  "geojson": null
+ },
+ "Ghatkopar metro station, Ghatkopar, Mumbai": null,
+ "Ghatkopar metro station, Mumbai": null,
+ "Ghatkopar, Mumbai": {
+  "lat": 19.0856928,
+  "lng": 72.9083668,
+  "osm": "node/4264539430",
+  "cls": "railway:station",
+  "display": "Ghatkopar, Station Road, Kapol Wadi, Ghatkopar East, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400086, India",
+  "geojson": null
+ },
+ "Dahisar East metro station, Dahisar East, Mumbai": null,
+ "Dahisar East metro station, Mumbai": null,
+ "Dahisar East, Mumbai": {
+  "lat": 19.2599822,
+  "lng": 72.8598732,
+  "osm": "node/10269327290",
+  "cls": "office:educational_institution",
+  "display": "THAKUR COLLEGE ARTS, DAHISAR EAST, Prataprao Gujjar Rd Road No 3, Avdhut Nagar, Dahisar East, R/N Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400068, India",
+  "geojson": null
+ },
+ "Borivali West metro station, Borivali West, Mumbai": null,
+ "Borivali West metro station, Mumbai": null,
+ "Borivali West, Mumbai": {
+  "lat": 19.2298129,
+  "lng": 72.8471376,
+  "osm": "node/702054649",
+  "cls": "amenity:hospital",
+  "display": "Borivali West, Dhaval Apartment, Chandavarkar Lane, Govind Nagar, Shimpoli, R/C Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400092, India",
+  "geojson": null
+ },
+ "Malad West metro station, Malad West, Mumbai": null,
+ "Malad West metro station, Mumbai": null,
+ "Malad West, Mumbai": {
+  "lat": 19.1852851,
+  "lng": 72.8358611,
+  "osm": "node/10576726762",
+  "cls": "railway:station",
+  "display": "Malad (West), Link Road, Malad West, P/N Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400064, India",
+  "geojson": null
+ },
+ "Goregaon West metro station, Goregaon West, Mumbai": null,
+ "Goregaon West metro station, Mumbai": null,
+ "Goregaon West, Mumbai": {
+  "lat": 19.1633281,
+  "lng": 72.8411995,
+  "osm": "node/702054743",
+  "cls": "place:suburb",
+  "display": "Goregaon West, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400090, India",
+  "geojson": null
+ },
+ "Lower Malad metro station, Lower Malad, Mumbai": null,
+ "Lower Malad metro station, Mumbai": null,
+ "Lower Malad, Mumbai": {
+  "lat": 19.1730984,
+  "lng": 72.8364801,
+  "osm": "node/10576726761",
+  "cls": "railway:station",
+  "display": "Lower Malad, Link Road, Ram Nagar, Bangur Nagar, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400090, India",
+  "geojson": null
+ },
+ "Kandivali West metro station, Kandivali West, Mumbai": null,
+ "Kandivali West metro station, Mumbai": null,
+ "Kandivali West, Mumbai": {
+  "lat": 19.2140139,
+  "lng": 72.8372919,
+  "osm": "node/9630642170",
+  "cls": "railway:stop",
+  "display": "Kandivali (West), Goregaon Link Road, Renuka Nagar, Mahavir Nagar, R/S Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400067, India",
+  "geojson": null
+ },
+ "Aarey metro station, Aarey, Mumbai": {
+  "lat": 19.169416,
+  "lng": 72.8588467,
+  "osm": "way/1095176120",
+  "cls": "building:transportation",
+  "display": "Aarey Metro Station, Aarey Flyover, Yashodham, Goregaon East, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400063, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8586439,
+      19.1685888
+     ],
+     [
+      72.8588689,
+      19.1685637
+     ],
+     [
+      72.8590484,
+      19.1702432
+     ],
+     [
+      72.8588249,
+      19.1702631
+     ],
+     [
+      72.8586439,
+      19.1685888
+     ]
+    ]
+   ]
+  }
+ },
+ "Goregaon East metro station, Goregaon East, Mumbai": null,
+ "Goregaon East metro station, Mumbai": null,
+ "Goregaon East, Mumbai": {
+  "lat": 19.1692623,
+  "lng": 72.8552548,
+  "osm": "node/1640244277",
+  "cls": "place:suburb",
+  "display": "Goregaon East, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400063, India",
+  "geojson": null
+ },
+ "Magathane metro station, Magathane, Mumbai": null,
+ "Magathane metro station, Mumbai": null,
+ "Magathane, Mumbai": {
+  "lat": 19.2171256,
+  "lng": 72.8667972,
+  "osm": "node/5220954766",
+  "cls": "railway:stop",
+  "display": "Magathane, Western Express Highway, Borivali East, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400066, India",
+  "geojson": null
+ },
+ "Akurli metro station, Akurli, Mumbai": null,
+ "Akurli metro station, Mumbai": null,
+ "Akurli, Mumbai": {
+  "lat": 19.1983142,
+  "lng": 72.8606474,
+  "osm": "node/9130397818",
+  "cls": "railway:stop",
+  "display": "Akurli, Western Express Highway, Kandivali East, R/S Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400101, India",
+  "geojson": null
+ },
+ "Kurar metro station, Kurar, Mumbai": null,
+ "Kurar metro station, Mumbai": null,
+ "Kurar, Mumbai": {
+  "lat": 19.1878187,
+  "lng": 72.8641984,
+  "osm": "node/1646196425",
+  "cls": "place:neighbourhood",
+  "display": "Kurar, Malad East, P/N Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400097, India",
+  "geojson": null
+ },
+ "Dindoshi metro station, Dindoshi, Mumbai": null,
+ "Dindoshi metro station, Mumbai": null,
+ "Dindoshi, Mumbai": {
+  "lat": 19.1740198,
+  "lng": 72.8695219,
+  "osm": "node/1389428493",
+  "cls": "place:suburb",
+  "display": "Dindoshi, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400063, India",
+  "geojson": null
+ },
+ "Mogra metro station, Mogra, Mumbai": null,
+ "Mogra metro station, Mumbai": null,
+ "Mogra, Mumbai": {
+  "lat": 19.1284481,
+  "lng": 72.8554647,
+  "osm": "node/5220954744",
+  "cls": "railway:stop",
+  "display": "Mogra, Western Express Highway, Aghadi Nagar, MIDC, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400029, India",
+  "geojson": null
+ },
+ "Gundavali metro station, Gundavali, Mumbai": null,
+ "Gundavali metro station, Mumbai": null,
+ "Gundavali, Mumbai": {
+  "lat": 19.1145184,
+  "lng": 72.8551326,
+  "osm": "node/10576622691",
+  "cls": "railway:stop",
+  "display": "Gundavali, Andheri Flyover, Malpa Dongri, Andheri East, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400069, India",
+  "geojson": null
+ },
+ "Cuffe Parade metro station, Cuffe Parade, Mumbai": null,
+ "Cuffe Parade metro station, Mumbai": null,
+ "Cuffe Parade, Mumbai": {
+  "lat": 18.9157866,
+  "lng": 72.8189036,
+  "osm": "node/9348211565",
+  "cls": "place:neighbourhood",
+  "display": "Cuffe Parade, Colaba, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400005, India",
+  "geojson": null
+ },
+ "Worli metro station, Worli, Mumbai": null,
+ "Worli metro station, Mumbai": null,
+ "Worli, Mumbai": {
+  "lat": 18.9988405,
+  "lng": 72.8170327,
+  "osm": "way/353802422",
+  "cls": "building:yes",
+  "display": "Worli Police Quarters, Worli, Dr Annie Besant Road, Nehru Nagar, G/S Ward, Mumbai Zone 2, Mumbai, Mumbai City District, Maharashtra, 400018, India",
+  "geojson": null
+ },
+ "Siddhivinayak metro station, Siddhivinayak, Mumbai": null,
+ "Siddhivinayak metro station, Mumbai": null,
+ "Siddhivinayak, Mumbai": {
+  "lat": 19.0587317,
+  "lng": 72.8384547,
+  "osm": "way/356258949",
+  "cls": "building:apartments",
+  "display": "Siddhivinayak, R. B. Vasudevrao Anant Bambardekar Road, Khar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+  "geojson": null
+ },
+ "Dadar metro station, Dadar, Mumbai": {
+  "lat": 19.0237671,
+  "lng": 72.8394034,
+  "osm": "way/828171868",
+  "cls": "building:train_station",
+  "display": "Dadar Metro Station, Shiv Sena Bhavan Path, Kasarwadi, Dadar West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400028, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8381968,
+      19.0225499
+     ],
+     [
+      72.8383751,
+      19.0223838
+     ],
+     [
+      72.8404511,
+      19.0247966
+     ],
+     [
+      72.8402594,
+      19.0249259
+     ],
+     [
+      72.8398852,
+      19.0247256
+     ],
+     [
+      72.8398235,
+      19.0246558
+     ],
+     [
+      72.8399241,
+      19.0245861
+     ],
+     [
+      72.8381968,
+      19.0225499
+     ]
+    ]
+   ]
+  }
+ },
+ "Bandra Colony metro station, Bandra Colony, Mumbai": null,
+ "Bandra Colony metro station, Mumbai": null,
+ "Bandra Colony, Mumbai": {
+  "lat": 19.0699627,
+  "lng": 72.8493601,
+  "osm": "node/12074909129",
+  "cls": "railway:station",
+  "display": "Bandra Colony, Sant Dnyaneshwar Marg, RPF Colony, Golibar, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400055, India",
+  "geojson": null
+ },
+ "BKC metro station, BKC, Mumbai": null,
+ "BKC metro station, Mumbai": null,
+ "BKC, Mumbai": {
+  "lat": 19.0592671,
+  "lng": 72.861326,
+  "osm": "way/353181581",
+  "cls": "building:commercial",
+  "display": "Securities Exchange Board of India, mumbai, Bandra Kurla Complex Road, Sant Dnyaneshwar Nagar, Bandra Kurla Complex, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+  "geojson": null
+ },
+ "Santacruz metro station, Santacruz, Mumbai": null,
+ "Santacruz metro station, Mumbai": {
+  "lat": 19.0792887,
+  "lng": 72.8471185,
+  "osm": "node/12074909130",
+  "cls": "railway:station",
+  "display": "Santacruz, Service Road, Anand Nagar, Golibar, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400055, India",
+  "geojson": null
+ },
+ "Sahar Road metro station, Sahar Road, Mumbai": null,
+ "Sahar Road metro station, Mumbai": null,
+ "Sahar Road, Mumbai": {
+  "lat": 19.1096159,
+  "lng": 72.8525922,
+  "osm": "way/1236044659",
+  "cls": "highway:secondary",
+  "display": "Sahar Road, Andheri East, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400057, India",
+  "geojson": null
+ },
+ "Aarey JVLR metro station, Aarey JVLR, Mumbai": null,
+ "Aarey JVLR metro station, Mumbai": null,
+ "Aarey JVLR, Mumbai": {
+  "lat": 19.1304269,
+  "lng": 72.8843184,
+  "osm": "way/1330720641",
+  "cls": "railway:station",
+  "display": "Aarey JVLR, Adi Sankaracharya Marg, Powai, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400096, India",
+  "geojson": null
+ },
+ "Science Museum metro station, Science Museum, Mumbai": null,
+ "Science Museum metro station, Mumbai": null,
+ "Science Museum, Mumbai": {
+  "lat": 18.9908694,
+  "lng": 72.8213532,
+  "osm": "node/5777542314",
+  "cls": "railway:stop",
+  "display": "Science Museum, Dr E Moses Marg, Mariammar Nagar, Mahalakshmi, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400018, India",
+  "geojson": null
+ },
+ "Hutatma Chowk metro station, Hutatma Chowk, Mumbai": null,
+ "Hutatma Chowk metro station, Mumbai": null,
+ "Hutatma Chowk, Mumbai": {
+  "lat": 18.9327405,
+  "lng": 72.8316318,
+  "osm": "way/130533404",
+  "cls": "leisure:garden",
+  "display": "Hutatma Chowk, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, India",
+  "geojson": null
+ },
+ "Grant Road metro station, Grant Road, Mumbai": null,
+ "Grant Road metro station, Mumbai": null,
+ "Grant Road, Mumbai": {
+  "lat": 18.9629085,
+  "lng": 72.8177282,
+  "osm": "way/828171873",
+  "cls": "landuse:construction",
+  "display": "Grant Road, Gamdevi, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, India",
+  "geojson": null
+ },
+ "Mahalaxmi metro station, Mahalaxmi, Mumbai": null,
+ "Mahalaxmi metro station, Mumbai": null,
+ "Mahalaxmi, Mumbai": {
+  "lat": 19.105218,
+  "lng": 72.828165,
+  "osm": "way/255384038",
+  "cls": "building:apartments",
+  "display": "Mahalaxmi, S-6, New India Society Road, Ashok Nagar, Juhu, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400058, India",
+  "geojson": null
+ },
+ "Acharya Atre Chowk metro station, Acharya Atre Chowk, Mumbai": null,
+ "Acharya Atre Chowk metro station, Mumbai": null,
+ "Acharya Atre Chowk, Mumbai": {
+  "lat": 18.9978202,
+  "lng": 72.8177201,
+  "osm": "node/12857565154",
+  "cls": "railway:station",
+  "display": "Acharya Atre Chowk, Dr E Moses Marg, Mariammar Nagar, Nehru Nagar, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400018, India",
+  "geojson": null
+ },
+ "Churchgate railway station, Churchgate, Mumbai": {
+  "lat": 18.9337168,
+  "lng": 72.8274613,
+  "osm": "way/107602114",
+  "cls": "building:train_station",
+  "display": "Churchgate railway station, Indian Merchants Chamber Road, Churchgate, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400023, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8272182,
+      18.934049
+     ],
+     [
+      72.8273062,
+      18.9335864
+     ],
+     [
+      72.8274019,
+      18.9336027
+     ],
+     [
+      72.8274751,
+      18.9332183
+     ],
+     [
+      72.8275382,
+      18.933229
+     ],
+     [
+      72.8275604,
+      18.9331592
+     ],
+     [
+      72.8276887,
+      18.933164
+     ],
+     [
+      72.827672,
+      18.9332518
+     ],
+     [
+      72.827728,
+      18.9332613
+     ],
+     [
+      72.8275667,
+      18.9341084
+     ],
+     [
+      72.8272182,
+      18.934049
+     ]
+    ]
+   ]
+  }
+ },
+ "Mumbai Central railway station, Mumbai Central, Mumbai": null,
+ "Mumbai Central railway station, Mumbai": {
+  "lat": 18.9695855,
+  "lng": 72.8193152,
+  "osm": "node/2630075008",
+  "cls": "railway:station",
+  "display": "Mumbai Central, J Boman Behram Marg, Tardeo, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400004, India",
+  "geojson": null
+ },
+ "Dadar railway station, Dadar, Mumbai": {
+  "lat": 19.0173761,
+  "lng": 72.8430265,
+  "osm": "node/2630075003",
+  "cls": "railway:station",
+  "display": "Dadar, Dadasaheb Phalke Marg, Matunga East, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400014, India",
+  "geojson": null
+ },
+ "Bandra railway station, Bandra, Mumbai": {
+  "lat": 19.0549792,
+  "lng": 72.8402203,
+  "osm": "node/2630075000",
+  "cls": "railway:station",
+  "display": "Bandra, Gurunanak Marg (Turner Road), Lal Mati (Lal Mitti), Khar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+  "geojson": null
+ },
+ "Andheri railway station, Andheri, Mumbai": {
+  "lat": 19.1196976,
+  "lng": 72.8464205,
+  "osm": "node/5696928866",
+  "cls": "railway:station",
+  "display": "Andheri, Masjid Galli, Gaondevi Dongri, Andheri West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400069, India",
+  "geojson": null
+ },
+ "Goregaon railway station, Goregaon, Mumbai": {
+  "lat": 19.1648688,
+  "lng": 72.8495492,
+  "osm": "node/3347034961",
+  "cls": "railway:station",
+  "display": "Goregaon, Station Road, Jawahar Nagar, Goregaon East, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400062, India",
+  "geojson": null
+ },
+ "Malad railway station, Malad, Mumbai": {
+  "lat": 19.1867193,
+  "lng": 72.8485884,
+  "osm": "node/3347034598",
+  "cls": "railway:station",
+  "display": "Malad, Kasturba Road, Rai Pada, Malad West, P/N Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400064, India",
+  "geojson": null
+ },
+ "Kandivali railway station, Kandivali, Mumbai": {
+  "lat": 19.2041136,
+  "lng": 72.8517376,
+  "osm": "node/3347023609",
+  "cls": "railway:station",
+  "display": "Kandivali, Bajaj Marg, Chanakya Nagar, Poisar, R/S Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400067, India",
+  "geojson": null
+ },
+ "Borivali railway station, Borivali, Mumbai": {
+  "lat": 19.229068,
+  "lng": 72.8573628,
+  "osm": "node/3347009325",
+  "cls": "railway:station",
+  "display": "Borivali, Kasturba Gandhi Road, Dattapada, Borivali East, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400066, India",
+  "geojson": null
+ },
+ "Mira Road railway station, Mira Road, Mumbai": null,
+ "Mira Road railway station, Mumbai": null,
+ "Mira Road, Mumbai": {
+  "lat": 19.1878962,
+  "lng": 72.8365955,
+  "osm": "node/7073949902",
+  "cls": "amenity:hospital",
+  "display": "Apex Kidney Care Pvt. Ltd (Mira Road), Link Road, Orlem, P/N Ward, Mumbai Zone 4, Mumbai, Thane, Maharashtra, 400601, India",
+  "geojson": null
+ },
+ "Bhayandar railway station, Bhayandar, Mumbai": null,
+ "Bhayandar railway station, Mumbai": null,
+ "Bhayandar, Mumbai": {
+  "lat": 19.2813147,
+  "lng": 72.8747815,
+  "osm": "node/8040595107",
+  "cls": "place:house",
+  "display": "113/114, 1st Floor, Ostwal Ashadeep Chs Ltd, Opp.Vijay Sales, Near Silver Park, Mira - Bhayandar Road, Mira Road - ( E ). Thane, Mira Bhayandar Road, Kashigaon, Kashimira, Ghodbunder, Mumbai, Thane Subdistrict, Thane, Maharashtra, 401107, India",
+  "geojson": null
+ },
+ "Virar railway station, Virar, Mumbai": null,
+ "Virar railway station, Mumbai": null,
+ "Virar, Mumbai": {
+  "lat": 19.4835285,
+  "lng": 72.8988801,
+  "osm": "way/311553167",
+  "cls": "highway:trunk",
+  "display": "Mumbai Delhi Highway, Shirsad, Vasai-Virar, Vasai Subdistrict, Palghar, Maharashtra, India",
+  "geojson": null
+ },
+ "Chhatrapati Shivaji Maharaj Terminus, Chhatrapati Shivaji Maharaj Terminus, Mumbai": null,
+ "Chhatrapati Shivaji Maharaj Terminus, Mumbai": {
+  "lat": 18.939856,
+  "lng": 72.8355191,
+  "osm": "way/107441516",
+  "cls": "tourism:attraction",
+  "display": "Chhatrapati Shivaji Maharaj Terminus, CSMT, Bori Bunder, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400038, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8350055,
+      18.9402966
+     ],
+     [
+      72.83503,
+      18.9400635
+     ],
+     [
+      72.8353456,
+      18.9400931
+     ],
+     [
+      72.8353639,
+      18.9399183
+     ],
+     [
+      72.8352772,
+      18.9399102
+     ],
+     [
+      72.8352894,
+      18.9397937
+     ],
+     [
+      72.8353761,
+      18.9398018
+     ],
+     [
+      72.8353945,
+      18.939627
+     ],
+     [
+      72.8350789,
+      18.9395974
+     ],
+     [
+      72.8351033,
+      18.9393643
+     ],
+     [
+      72.8358,
+      18.9394297
+     ],
+     [
+      72.8357022,
+      18.940362
+     ],
+     [
+      72.8350055,
+      18.9402966
+     ]
+    ]
+   ]
+  }
+ },
+ "Byculla railway station, Byculla, Mumbai": {
+  "lat": 18.9766219,
+  "lng": 72.8327936,
+  "osm": "node/2630075001",
+  "cls": "railway:station",
+  "display": "Byculla, N M Joshi Marg, Byculla West, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400027, India",
+  "geojson": null
+ },
+ "Parel railway station, Parel, Mumbai": {
+  "lat": 19.0094817,
+  "lng": 72.8376614,
+  "osm": "node/3501418212",
+  "cls": "railway:station",
+  "display": "Parel, Parel-Prabhadevi Bridge, Tata Mills, Dadar West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400013, India",
+  "geojson": null
+ },
+ "Kurla railway station, Kurla, Mumbai": {
+  "lat": 19.0652797,
+  "lng": 72.8793805,
+  "osm": "node/2663447640",
+  "cls": "railway:station",
+  "display": "Kurla, Kurla FOB 4, Naware Baug Jagruti Nagar, Kurla East, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400024, India",
+  "geojson": null
+ },
+ "Ghatkopar railway station, Ghatkopar, Mumbai": {
+  "lat": 19.0861295,
+  "lng": 72.90902,
+  "osm": "way/151489119",
+  "cls": "landuse:railway",
+  "display": "Ghatkopar Railway Station, Ghatkopar East, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.9050814,
+      19.084087
+     ],
+     [
+      72.9052315,
+      19.0838032
+     ],
+     [
+      72.9061264,
+      19.0841543
+     ],
+     [
+      72.9071049,
+      19.0846397
+     ],
+     [
+      72.9093996,
+      19.0859775
+     ],
+     [
+      72.9104636,
+      19.0867624
+     ],
+     [
+      72.9121869,
+      19.0881744
+     ],
+     [
+      72.911933,
+      19.0884617
+     ],
+     [
+      72.9102625,
+      19.0872314
+     ],
+     [
+      72.910217,
+      19.0872973
+     ],
+     [
+      72.9084649,
+      19.0861485
+     ],
+     [
+      72.9062187,
+      19.0847506
+     ],
+     [
+      72.90596,
+      19.0845464
+     ],
+     [
+      72.9050814,
+      19.084087
+     ]
+    ]
+   ]
+  }
+ },
+ "Vikhroli railway station, Vikhroli, Mumbai": {
+  "lat": 19.1114795,
+  "lng": 72.928021,
+  "osm": "node/4258411797",
+  "cls": "railway:station",
+  "display": "Vikhroli, P. Soman Marg, Hariyali, Vikhroli West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400083, India",
+  "geojson": null
+ },
+ "Bhandup railway station, Bhandup, Mumbai": {
+  "lat": 19.142757,
+  "lng": 72.9376543,
+  "osm": "node/3248305759",
+  "cls": "railway:station",
+  "display": "Bhandup, Bhandup Station Road, Bhandup West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400078, India",
+  "geojson": null
+ },
+ "Mulund railway station, Mulund, Mumbai": {
+  "lat": 19.1721366,
+  "lng": 72.9566971,
+  "osm": "node/1643351703",
+  "cls": "railway:station",
+  "display": "Mulund, Platform 4, Vijay Nagar, Mulund East, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400081, India",
+  "geojson": null
+ },
+ "Thane railway station, Thane, Mumbai": null,
+ "Thane railway station, Mumbai": null,
+ "Thane, Mumbai": {
+  "lat": 19.0308262,
+  "lng": 73.0198537,
+  "osm": "relation/13180880",
+  "cls": "boundary:administrative",
+  "display": "Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+  "geojson": null
+ },
+ "Kalyan railway station, Kalyan, Mumbai": null,
+ "Kalyan railway station, Mumbai": null,
+ "Kalyan, Mumbai": {
+  "lat": 19.0511604,
+  "lng": 72.9293364,
+  "osm": "way/136174055",
+  "cls": "landuse:residential",
+  "display": "Jan Kalyan Society, Mankhurd, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, India",
+  "geojson": null
+ },
+ "Dombivli railway station, Dombivli, Mumbai": null,
+ "Dombivli railway station, Mumbai": null,
+ "Dombivli, Mumbai": {
+  "lat": 19.1930221,
+  "lng": 73.1043431,
+  "osm": "way/359935636",
+  "cls": "building:yes",
+  "display": "darshancomplex, mumbai, Gavdevi Mandir Rd, Sagaon, Dombivli, Dombivali, Kalyan Subdistrict, Thane, Maharashtra, 421203, India",
+  "geojson": null
+ },
+ "Chembur railway station, Chembur, Mumbai": {
+  "lat": 19.0626319,
+  "lng": 72.9011399,
+  "osm": "node/2454571178",
+  "cls": "railway:station",
+  "display": "Chembur, Chembur Station Middle FOB, Phule Nagar, Chheda Nagar, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India",
+  "geojson": null
+ },
+ "Vashi railway station, Vashi, Mumbai": {
+  "lat": 19.0632481,
+  "lng": 72.9987966,
+  "osm": "way/151768155",
+  "cls": "railway:station",
+  "display": "Vashi, Vashi Station Road, Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.9974291,
+      19.0629979
+     ],
+     [
+      72.9975318,
+      19.0628531
+     ],
+     [
+      72.9974882,
+      19.0627908
+     ],
+     [
+      72.9975302,
+      19.062783
+     ],
+     [
+      72.997868,
+      19.0623259
+     ],
+     [
+      72.9986425,
+      19.0628012
+     ],
+     [
+      72.9986778,
+      19.0628155
+     ],
+     [
+      72.9987444,
+      19.062683
+     ],
+     [
+      72.9994442,
+      19.062967
+     ],
+     [
+      72.9993847,
+      19.0631184
+     ],
+     [
+      73.0000601,
+      19.0633187
+     ],
+     [
+      72.999876,
+      19.0638975
+     ],
+     [
+      73.0000948,
+      19.0639431
+     ],
+     [
+      73.0000355,
+      19.0641534
+     ],
+     [
+      72.9996116,
+      19.064031
+     ],
+     [
+      72.9995357,
+      19.0642566
+     ],
+     [
+      72.9992996,
+      19.0641856
+     ],
+     [
+      72.9993747,
+      19.0639625
+     ],
+     [
+      72.9990526,
+      19.0638695
+     ],
+     [
+      72.9983739,
+      19.063575
+     ],
+     [
+      72.9979796,
+      19.0633573
+     ],
+     [
+      72.997862,
+      19.0635518
+     ],
+     [
+      72.997652,
+      19.0634372
+     ],
+     [
+      72.9978371,
+      19.0631775
+     ],
+     [
+      72.9977507,
+      19.0631245
+     ],
+     [
+      72.9977116,
+      19.0631708
+     ],
+     [
+      72.9974291,
+      19.0629979
+     ]
+    ]
+   ]
+  }
+ },
+ "Panvel railway station, Panvel, Mumbai": null,
+ "Panvel railway station, Mumbai": null,
+ "Panvel, Mumbai": {
+  "lat": 19.0513664,
+  "lng": 72.8762971,
+  "osm": "way/618477972",
+  "cls": "highway:trunk",
+  "display": "Sion Panvel Highway, Rahul Nagar No.2, Kurla East, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400024, India",
+  "geojson": null
+ },
+ "Lower Parel railway station, Lower Parel, Mumbai": {
+  "lat": 18.99568,
+  "lng": 72.8302756,
+  "osm": "node/621911847",
+  "cls": "railway:station",
+  "display": "Lower Parel, Delisle Road ROB, BDD Chawl, Lower Parel, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400013, India",
+  "geojson": null
+ },
+ "Santacruz railway station, Santacruz, Mumbai": null,
+ "Santacruz railway station, Mumbai": {
+  "lat": 19.0792887,
+  "lng": 72.8471185,
+  "osm": "node/12074909130",
+  "cls": "railway:station",
+  "display": "Santacruz, Service Road, Anand Nagar, Golibar, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400055, India",
+  "geojson": null
+ },
+ "Jogeshwari railway station, Jogeshwari, Mumbai": null,
+ "Jogeshwari railway station, Mumbai": {
+  "lat": 19.1429455,
+  "lng": 72.855185,
+  "osm": "node/10576622721",
+  "cls": "railway:station",
+  "display": "Jogeshwari (East), Western Express Highway, Aarey Milk Colony, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400060, India",
+  "geojson": null
+ },
+ "Wadala Road railway station, Wadala Road, Mumbai": null,
+ "Wadala Road railway station, Mumbai": null,
+ "Wadala Road, Mumbai": {
+  "lat": 19.0161359,
+  "lng": 72.8588525,
+  "osm": "node/7510862066",
+  "cls": "railway:stop",
+  "display": "Vadala Road, Foot over Bridge, New BPT Colony, Matunga East, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400031, India",
+  "geojson": null
+ },
+ "Seawoods-Darave railway station, Seawoods-Darave, Mumbai": null,
+ "Seawoods-Darave railway station, Mumbai": null,
+ "Seawoods-Darave, Mumbai": {
+  "lat": 19.0221923,
+  "lng": 73.0187376,
+  "osm": "way/354451786",
+  "cls": "building:yes",
+  "display": "Seawoods-Darave, Seawoods Station Road, Sector-42, Seawoods East, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400706, India",
+  "geojson": null
+ },
+ "Chhatrapati Shivaji Maharaj International Airport Terminal 2, Chhatrapati Shivaji Maharaj International Airport Terminal 2, Mumbai": null,
+ "Chhatrapati Shivaji Maharaj International Airport Terminal 2, Mumbai": {
+  "lat": 19.1031409,
+  "lng": 72.8756228,
+  "osm": "way/436222499",
+  "cls": "highway:primary",
+  "display": "Sahar Elevated Road, Navpada, Saki Naka, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400099, India",
+  "geojson": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     72.8727839,
+     19.103158
+    ],
+    [
+     72.8746847,
+     19.1031276
+    ],
+    [
+     72.8758066,
+     19.1031435
+    ],
+    [
+     72.8760236,
+     19.1031059
+    ],
+    [
+     72.8762201,
+     19.103021
+    ],
+    [
+     72.8763337,
+     19.1029278
+    ],
+    [
+     72.8764188,
+     19.1027835
+    ],
+    [
+     72.8764719,
+     19.102599
+    ],
+    [
+     72.8765191,
+     19.1008856
+    ]
+   ]
+  }
+ },
+ "Navi Mumbai International Airport, Navi Mumbai International Airport, Mumbai": null,
+ "Navi Mumbai International Airport, Mumbai": {
+  "lat": 18.9913513,
+  "lng": 73.0657484,
+  "osm": "way/455547086",
+  "cls": "aeroway:aerodrome",
+  "display": "Navi Mumbai International Airport, Amra Marg, Targhar, Navi Mumbai, Panvel Subdistrict, Raigad, Maharashtra, 400706, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      73.0354526,
+      18.9993547
+     ],
+     [
+      73.0368621,
+      18.9971818
+     ],
+     [
+      73.0374072,
+      18.9962125
+     ],
+     [
+      73.0377508,
+      18.9952609
+     ],
+     [
+      73.0379073,
+      18.9941628
+     ],
+     [
+      73.0379862,
+      18.9932957
+     ],
+     [
+      73.0379588,
+      18.9923464
+     ],
+     [
+      73.0375079,
+      18.9905408
+     ],
+     [
+      73.0373441,
+      18.9896894
+     ],
+     [
+      73.037362,
+      18.9888917
+     ],
+     [
+      73.0375648,
+      18.9881636
+     ],
+     [
+      73.0387077,
+      18.9856573
+     ],
+     [
+      73.0389426,
+      18.9845919
+     ],
+     [
+      73.0389935,
+      18.9835401
+     ],
+     [
+      73.0389601,
+      18.9830639
+     ],
+     [
+      73.0396504,
+      18.9831277
+     ],
+     [
+      73.0391256,
+      18.9794632
+     ],
+     [
+      73.0658376,
+      18.9828691
+     ],
+     [
+      73.0660258,
+      18.9815148
+     ],
+     [
+      73.067249,
+      18.9816648
+     ],
+     [
+      73.0670495,
+      18.9830258
+     ],
+     [
+      73.0900124,
+      18.9859488
+     ],
+     [
+      73.0936343,
+      18.991062
+     ],
+     [
+      73.0937562,
+      18.9912965
+     ],
+     [
+      73.093805,
+      18.9915003
+     ],
+     [
+      73.0937989,
+      18.9918136
+     ],
+     [
+      73.0937054,
+      18.9920577
+     ],
+     [
+      73.0935591,
+      18.9922729
+     ],
+     [
+      73.089688,
+      18.9962428
+     ],
+     [
+      73.0891893,
+      18.9966816
+     ],
+     [
+      73.0830637,
+      19.0030667
+     ],
+     [
+      73.0829276,
+      19.0030964
+     ],
+     [
+      73.0652404,
+      19.0008223
+     ],
+     [
+      73.0645991,
+      19.0008863
+     ],
+     [
+      73.063731,
+      19.0011354
+     ],
+     [
+      73.0617267,
+      19.0030769
+     ],
+     [
+      73.0612868,
+      19.0032874
+     ],
+     [
+      73.0608389,
+      19.0033178
+     ],
+     [
+      73.0512433,
+      19.0021957
+     ],
+     [
+      73.0380323,
+      19.00049
+     ],
+     [
+      73.0370618,
+      19.0003143
+     ],
+     [
+      73.0354526,
+      18.9993547
+     ]
+    ]
+   ]
+  }
+ },
+ "Bandra Kurla Complex, Bandra Kurla Complex, Mumbai": {
+  "lat": 19.0592671,
+  "lng": 72.861326,
+  "osm": "way/353181581",
+  "cls": "building:commercial",
+  "display": "Securities Exchange Board of India, mumbai, Bandra Kurla Complex Road, Sant Dnyaneshwar Nagar, Bandra Kurla Complex, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8608499,
+      19.0595132
+     ],
+     [
+      72.8608765,
+      19.059186
+     ],
+     [
+      72.8611918,
+      19.0590075
+     ],
+     [
+      72.8618063,
+      19.059053
+     ],
+     [
+      72.861773,
+      19.0593482
+     ],
+     [
+      72.8614969,
+      19.0593774
+     ],
+     [
+      72.8613379,
+      19.0595149
+     ],
+     [
+      72.8611932,
+      19.0595438
+     ],
+     [
+      72.8608499,
+      19.0595132
+     ]
+    ]
+   ]
+  }
+ },
+ "Nariman Point, Nariman Point, Mumbai": {
+  "lat": 18.9253433,
+  "lng": 72.8180282,
+  "osm": "node/4583583497",
+  "cls": "tourism:attraction",
+  "display": "Nariman Point, Sir Dorab Tata Road, Nariman Point, Colaba, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400023, India",
+  "geojson": null
+ },
+ "Lower Parel, Lower Parel, Mumbai": {
+  "lat": 18.99568,
+  "lng": 72.8302756,
+  "osm": "node/621911847",
+  "cls": "railway:station",
+  "display": "Lower Parel, Delisle Road ROB, BDD Chawl, Lower Parel, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400013, India",
+  "geojson": null
+ },
+ "Hiranandani Business Park Powai, Hiranandani Business Park Powai, Mumbai": null,
+ "Hiranandani Business Park Powai, Mumbai": null,
+ "SEEPZ Andheri, SEEPZ Andheri, Mumbai": null,
+ "SEEPZ Andheri, Mumbai": null,
+ "Mindspace Malad, Mindspace Malad, Mumbai": null,
+ "Mindspace Malad, Mumbai": {
+  "lat": 19.1847848,
+  "lng": 72.834135,
+  "osm": "way/635524435",
+  "cls": "landuse:commercial",
+  "display": "Infiniti Mall Malad, Mindspace, Malad West, P/N Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400064, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8330333,
+      19.1842616
+     ],
+     [
+      72.8349069,
+      19.1842376
+     ],
+     [
+      72.8349015,
+      19.1844073
+     ],
+     [
+      72.8351,
+      19.1845213
+     ],
+     [
+      72.8351724,
+      19.1846277
+     ],
+     [
+      72.8351697,
+      19.1849418
+     ],
+     [
+      72.8356203,
+      19.1849798
+     ],
+     [
+      72.8356257,
+      19.1853294
+     ],
+     [
+      72.8331741,
+      19.1853851
+     ],
+     [
+      72.8330333,
+      19.1842616
+     ]
+    ]
+   ]
+  }
+ },
+ "Thane Wagle Estate, Thane Wagle Estate, Mumbai": null,
+ "Thane Wagle Estate, Mumbai": null,
+ "Mindspace Airoli, Mindspace Airoli, Mumbai": null,
+ "Mindspace Airoli, Mumbai": {
+  "lat": 19.161493,
+  "lng": 73.0021466,
+  "osm": "way/152205313",
+  "cls": "landuse:commercial",
+  "display": "Mindspace - Airoli, Airoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      73.0000751,
+      19.163674
+     ],
+     [
+      73.0002286,
+      19.1590049
+     ],
+     [
+      73.0010075,
+      19.1590259
+     ],
+     [
+      73.0014221,
+      19.1592764
+     ],
+     [
+      73.0023344,
+      19.1593424
+     ],
+     [
+      73.0041777,
+      19.159701
+     ],
+     [
+      73.0041103,
+      19.1637077
+     ],
+     [
+      73.0000751,
+      19.163674
+     ]
+    ]
+   ]
+  }
+ },
+ "Kokilaben Dhirubhai Ambani Hospital, Kokilaben Dhirubhai Ambani Hospital, Mumbai": null,
+ "Kokilaben Dhirubhai Ambani Hospital, Mumbai": {
+  "lat": 19.1312557,
+  "lng": 72.8246749,
+  "osm": "way/150491109",
+  "cls": "building:hospital",
+  "display": "Kokilaben Dhirubhai Ambani Hospital, Jai Prakash Road, Seven Bungalows, Versova, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400053, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8242885,
+      19.1311233
+     ],
+     [
+      72.824518,
+      19.1310705
+     ],
+     [
+      72.8245068,
+      19.1310267
+     ],
+     [
+      72.8253437,
+      19.1308344
+     ],
+     [
+      72.8254281,
+      19.1311634
+     ],
+     [
+      72.8246277,
+      19.1313479
+     ],
+     [
+      72.8246821,
+      19.1315577
+     ],
+     [
+      72.8244153,
+      19.1316195
+     ],
+     [
+      72.8242885,
+      19.1311233
+     ]
+    ]
+   ]
+  }
+ },
+ "Lilavati Hospital, Lilavati Hospital, Mumbai": null,
+ "Lilavati Hospital, Mumbai": {
+  "lat": 19.0509357,
+  "lng": 72.8291665,
+  "osm": "way/31144296",
+  "cls": "amenity:hospital",
+  "display": "Lilavati Hospital, KC Marg, Vaidya Nagar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8285763,
+      19.0510502
+     ],
+     [
+      72.8290228,
+      19.0503724
+     ],
+     [
+      72.8297569,
+      19.0508211
+     ],
+     [
+      72.829257,
+      19.051578
+     ],
+     [
+      72.8285804,
+      19.0512777
+     ],
+     [
+      72.8285763,
+      19.0510502
+     ]
+    ]
+   ]
+  }
+ },
+ "Hinduja Hospital, Hinduja Hospital, Mumbai": null,
+ "Hinduja Hospital, Mumbai": {
+  "lat": 19.0332237,
+  "lng": 72.8382311,
+  "osm": "way/113716578",
+  "cls": "amenity:hospital",
+  "display": "Hinduja Hospital, Swatantrya Veer Savarkar Marg, Rao Wadi, Matunga West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400016, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8377435,
+      19.0327661
+     ],
+     [
+      72.8385025,
+      19.0327357
+     ],
+     [
+      72.8385253,
+      19.0332123
+     ],
+     [
+      72.8386004,
+      19.0336282
+     ],
+     [
+      72.8379976,
+      19.0337229
+     ],
+     [
+      72.8379419,
+      19.0332352
+     ],
+     [
+      72.8378025,
+      19.033007
+     ],
+     [
+      72.8377435,
+      19.0327661
+     ]
+    ]
+   ]
+  }
+ },
+ "Nanavati Hospital, Nanavati Hospital, Mumbai": null,
+ "Nanavati Hospital, Mumbai": {
+  "lat": 19.1002773,
+  "lng": 72.8395808,
+  "osm": "node/9769880918",
+  "cls": "highway:bus_stop",
+  "display": "Nanavati Hospital, Swami Vivekanand Road, JEEVAN SHANTI COLONY, Vile Parle West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400057, India",
+  "geojson": null
+ },
+ "Hiranandani Hospital Powai, Hiranandani Hospital Powai, Mumbai": null,
+ "Hiranandani Hospital Powai, Mumbai": {
+  "lat": 19.1201503,
+  "lng": 72.9169343,
+  "osm": "way/353139106",
+  "cls": "landuse:commercial",
+  "display": "Dr. L. H. Hiranandani Hospital, Powai, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400076, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.9165097,
+      19.1194659
+     ],
+     [
+      72.9167307,
+      19.1196767
+     ],
+     [
+      72.9175821,
+      19.1207223
+     ],
+     [
+      72.9175925,
+      19.1209386
+     ],
+     [
+      72.9171094,
+      19.1210925
+     ],
+     [
+      72.9168786,
+      19.1206506
+     ],
+     [
+      72.9169067,
+      19.1205569
+     ],
+     [
+      72.9165154,
+      19.1195522
+     ],
+     [
+      72.9165097,
+      19.1194659
+     ]
+    ]
+   ]
+  }
+ },
+ "Jupiter Hospital Thane, Jupiter Hospital Thane, Mumbai": null,
+ "Jupiter Hospital Thane, Mumbai": {
+  "lat": 19.209474,
+  "lng": 72.9725219,
+  "osm": "way/898024674",
+  "cls": "amenity:hospital",
+  "display": "Jupiter Hospital, Service Road, Majiwada, Thane, Thane Subdistrict, Thane, Maharashtra, 400602, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.9716955,
+      19.2099158
+     ],
+     [
+      72.9727851,
+      19.2089143
+     ],
+     [
+      72.972865,
+      19.2089918
+     ],
+     [
+      72.9726111,
+      19.2092252
+     ],
+     [
+      72.973124,
+      19.2097227
+     ],
+     [
+      72.9725922,
+      19.2102115
+     ],
+     [
+      72.9723544,
+      19.2099808
+     ],
+     [
+      72.9720504,
+      19.2102602
+     ],
+     [
+      72.9716955,
+      19.2099158
+     ]
+    ]
+   ]
+  }
+ },
+ "Fortis Hospital Mulund, Fortis Hospital Mulund, Mumbai": null,
+ "Fortis Hospital Mulund, Mumbai": {
+  "lat": 19.1622902,
+  "lng": 72.9423389,
+  "osm": "node/5940644285",
+  "cls": "highway:bus_stop",
+  "display": "Fortis Hospital, Mulund-Goregaon Link Road, Subhash Nagar, Nahur, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400082, India",
+  "geojson": null
+ },
+ "Breach Candy Hospital, Breach Candy Hospital, Mumbai": null,
+ "Breach Candy Hospital, Mumbai": {
+  "lat": 18.9725663,
+  "lng": 72.8042677,
+  "osm": "way/39223162",
+  "cls": "amenity:hospital",
+  "display": "Breach Candy Hospital, Warden Road (Bhula Bhai Desai Marg), Breach Candy, Cumballa Hill, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400026, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.803795,
+      18.9723999
+     ],
+     [
+      72.8041555,
+      18.9723187
+     ],
+     [
+      72.8043958,
+      18.972619
+     ],
+     [
+      72.8048336,
+      18.9727408
+     ],
+     [
+      72.8047992,
+      18.9728706
+     ],
+     [
+      72.80431,
+      18.9727408
+     ],
+     [
+      72.8040954,
+      18.9724486
+     ],
+     [
+      72.8038294,
+      18.9725135
+     ],
+     [
+      72.803795,
+      18.9723999
+     ]
+    ]
+   ]
+  }
+ },
+ "Tata Memorial Hospital, Tata Memorial Hospital, Mumbai": null,
+ "Tata Memorial Hospital, Mumbai": {
+  "lat": 19.004984,
+  "lng": 72.8432125,
+  "osm": "node/7052388277",
+  "cls": "amenity:hospital",
+  "display": "Tata Memorial Hospital, Jerbai Wadia Marg, Bhoiwada, Parel, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400012, India",
+  "geojson": null
+ },
+ "Bombay Hospital, Bombay Hospital, Mumbai": {
+  "lat": 18.9410923,
+  "lng": 72.828176,
+  "osm": "node/6884803663",
+  "cls": "amenity:blood_bank",
+  "display": "Bombay Hospital Trust Blood Bank, Bombay Hospital Avenue, Narayanpada, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400020, India",
+  "geojson": null
+ },
+ "Marine Drive, Marine Drive, Mumbai": {
+  "lat": 18.9283647,
+  "lng": 72.8207379,
+  "osm": "node/4583583498",
+  "cls": "tourism:attraction",
+  "display": "Marine Drive, Marine Drive Promenade, Nariman Point, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400021, India",
+  "geojson": null
+ },
+ "Worli Sea Face, Worli Sea Face, Mumbai": {
+  "lat": 19.0096397,
+  "lng": 72.8158342,
+  "osm": "way/979583330",
+  "cls": "amenity:school",
+  "display": "Worli Seaface BMC High School, Worli Sea Face, Worli, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400030, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8154799,
+      19.0095561
+     ],
+     [
+      72.8159488,
+      19.0093068
+     ],
+     [
+      72.8161877,
+      19.0097234
+     ],
+     [
+      72.815717,
+      19.0099626
+     ],
+     [
+      72.8154799,
+      19.0095561
+     ]
+    ]
+   ]
+  }
+ },
+ "Carter Road, Carter Road, Mumbai": {
+  "lat": 19.062812,
+  "lng": 72.8226873,
+  "osm": "way/357472397",
+  "cls": "amenity:police",
+  "display": "Additional Commisioner of Police, Mumbai, West Region, 105, Carter Road, Malla, Khar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8226253,
+      19.0627641
+     ],
+     [
+      72.8227219,
+      19.0627438
+     ],
+     [
+      72.8227492,
+      19.0628599
+     ],
+     [
+      72.8226526,
+      19.0628802
+     ],
+     [
+      72.8226253,
+      19.0627641
+     ]
+    ]
+   ]
+  }
+ },
+ "Bandstand Promenade, Bandstand Promenade, Mumbai": {
+  "lat": 19.0543481,
+  "lng": 72.8227564,
+  "osm": "node/14359780501",
+  "cls": "tourism:viewpoint",
+  "display": "Bandstand promenade, Bandstand Promenade, Bandstand, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+  "geojson": null
+ },
+ "Juhu Beach, Juhu Beach, Mumbai": null,
+ "Juhu Beach, Mumbai": {
+  "lat": 19.1026521,
+  "lng": 72.8246792,
+  "osm": "way/151253238",
+  "cls": "natural:beach",
+  "display": "Juhu Beach, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8191973,
+      19.1207875
+     ],
+     [
+      72.8192804,
+      19.1206122
+     ],
+     [
+      72.8195373,
+      19.1197246
+     ],
+     [
+      72.819713,
+      19.1192967
+     ],
+     [
+      72.8201857,
+      19.1179016
+     ],
+     [
+      72.820808,
+      19.1166244
+     ],
+     [
+      72.8213337,
+      19.1153623
+     ],
+     [
+      72.8221518,
+      19.1132841
+     ],
+     [
+      72.822479,
+      19.112245
+     ],
+     [
+      72.8227338,
+      19.1112769
+     ],
+     [
+      72.822994,
+      19.1104634
+     ],
+     [
+      72.823222,
+      19.1090162
+     ],
+     [
+      72.8234902,
+      19.1077668
+     ],
+     [
+      72.8242729,
+      19.1031371
+     ],
+     [
+      72.8252394,
+      19.0999144
+     ],
+     [
+      72.825844,
+      19.0981401
+     ],
+     [
+      72.825993,
+      19.097436
+     ],
+     [
+      72.8261606,
+      19.0968298
+     ],
+     [
+      72.8265532,
+      19.093994
+     ],
+     [
+      72.8265318,
+      19.0901363
+     ],
+     [
+      72.8264567,
+      19.0890414
+     ],
+     [
+      72.8260196,
+      19.087305
+     ],
+     [
+      72.8251666,
+      19.0851632
+     ],
+     [
+      72.8247213,
+      19.0845953
+     ],
+     [
+      72.8242888,
+      19.0841796
+     ],
+     [
+      72.8238533,
+      19.083906
+     ],
+     [
+      72.8252801,
+      19.083951
+     ],
+     [
+      72.8253999,
+      19.0846714
+     ],
+     [
+      72.8258159,
+      19.0856049
+     ],
+     [
+      72.8264278,
+      19.0873661
+     ],
+     [
+      72.8268395,
+      19.0897583
+     ],
+     [
+      72.8269063,
+      19.0909938
+     ],
+     [
+      72.8269174,
+      19.0928075
+     ],
+     [
+      72.8267116,
+      19.0950734
+     ],
+     [
+      72.8265391,
+      19.096393
+     ],
+     [
+      72.8266671,
+      19.0964403
+     ],
+     [
+      72.8266726,
+      19.0965717
+     ],
+     [
+      72.8268228,
+      19.0966191
+     ],
+     [
+      72.8265669,
+      19.0976915
+     ],
+     [
+      72.8262317,
+      19.0975986
+     ],
+     [
+      72.8261423,
+      19.0979259
+     ],
+     [
+      72.826064,
+      19.0979048
+     ],
+     [
+      72.8259942,
+      19.0981662
+     ],
+     [
+      72.826444,
+      19.0982586
+     ],
+     [
+      72.8263965,
+      19.0984803
+     ],
+     [
+      72.8260696,
+      19.0984275
+     ],
+     [
+      72.8253055,
+      19.1011837
+     ],
+     [
+      72.8250802,
+      19.1021671
+     ],
+     [
+      72.8247911,
+      19.1031768
+     ],
+     [
+      72.8244765,
+      19.1046629
+     ],
+     [
+      72.8242439,
+      19.1060459
+     ],
+     [
+      72.8239864,
+      19.1069963
+     ],
+     [
+      72.8238001,
+      19.1083651
+     ],
+     [
+      72.8236377,
+      19.1090735
+     ],
+     [
+      72.8235546,
+      19.1096853
+     ],
+     [
+      72.8232086,
+      19.1110007
+     ],
+     [
+      72.8227017,
+      19.1127038
+     ],
+     [
+      72.8221035,
+      19.1141002
+     ],
+     [
+      72.8217548,
+      19.1150125
+     ],
+     [
+      72.8208375,
+      19.1170248
+     ],
+     [
+      72.8205585,
+      19.1175519
+     ],
+     [
+      72.820124,
+      19.1187912
+     ],
+     [
+      72.8200999,
+      19.1190294
+     ],
+     [
+      72.8201741,
+      19.1191622
+     ],
+     [
+      72.8203426,
+      19.1190522
+     ],
+     [
+      72.8211757,
+      19.1194933
+     ],
+     [
+      72.8209075,
+      19.1197163
+     ],
+     [
+      72.8207519,
+      19.1199292
+     ],
+     [
+      72.8207111,
+      19.1204203
+     ],
+     [
+      72.8207218,
+      19.1207092
+     ],
+     [
+      72.8208431,
+      19.121029
+     ],
+     [
+      72.8208321,
+      19.1211911
+     ],
+     [
+      72.8207651,
+      19.1213305
+     ],
+     [
+      72.8206551,
+      19.1213685
+     ],
+     [
+      72.8201777,
+      19.1209681
+     ],
+     [
+      72.8199926,
+      19.120854
+     ],
+     [
+      72.8199846,
+      19.1210086
+     ],
+     [
+      72.8202045,
+      19.1212671
+     ],
+     [
+      72.8202528,
+      19.1214623
+     ],
+     [
+      72.8202286,
+      19.121774
+     ],
+     [
+      72.8200516,
+      19.1219438
+     ],
+     [
+      72.8198826,
+      19.1220198
+     ],
+     [
+      72.8197485,
+      19.1220198
+     ],
+     [
+      72.8195769,
+      19.121959
+     ],
+     [
+      72.8194132,
+      19.1217613
+     ],
+     [
+      72.8195581,
+      19.121371
+     ],
+     [
+      72.8195634,
+      19.1212266
+     ],
+     [
+      72.8194615,
+      19.1209732
+     ],
+     [
+      72.8191973,
+      19.1207875
+     ]
+    ]
+   ]
+  }
+ },
+ "Versova Beach, Versova Beach, Mumbai": {
+  "lat": 19.1436311,
+  "lng": 72.8034266,
+  "osm": "node/1640461450",
+  "cls": "amenity:ferry_terminal",
+  "display": "Versova Jetty, Sea Beach Road, Versova Koliwada, Madh, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400061, India",
+  "geojson": null
+ },
+ "Gorai Beach, Gorai Beach, Mumbai": null,
+ "Gorai Beach, Mumbai": {
+  "lat": 19.256963,
+  "lng": 72.7830598,
+  "osm": "node/10248901351",
+  "cls": "amenity:restaurant",
+  "display": "Sea Breeze Kitchen, S. No. 42, Plot No. F, Beach, near Sun Beach Resort, Gorai,, Uttan Road, Kajori Wadi, R/C Ward, Mumbai Zone 4, Gorai, Thane Subdistrict, Mumbai Suburban District, Maharashtra, 400092, India",
+  "geojson": null
+ },
+ "Shivaji Park, Shivaji Park, Mumbai": {
+  "lat": 19.0250514,
+  "lng": 72.8369227,
+  "osm": "node/7065820603",
+  "cls": "amenity:clinic",
+  "display": "Nirmal Nursing Home, Mumbai, Ranade Road, Bhavanishankar, Dadar West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400014, India",
+  "geojson": null
+ },
+ "Lodha World Towers, Lower Parel, Mumbai": {
+  "lat": 19.0026047,
+  "lng": 72.826116,
+  "osm": "way/1431905888",
+  "cls": "building:yes",
+  "display": "Lodha World Towers, Shankar Rao Naram Path (Gowalia Chawl Lane), Gopal Nagar, Lower Parel, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400013, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.825378,
+      19.0019998
+     ],
+     [
+      72.8254136,
+      19.0016043
+     ],
+     [
+      72.8263391,
+      19.0016726
+     ],
+     [
+      72.8263396,
+      19.0020669
+     ],
+     [
+      72.8266536,
+      19.0020492
+     ],
+     [
+      72.8269337,
+      19.0021434
+     ],
+     [
+      72.8269345,
+      19.0021705
+     ],
+     [
+      72.8267647,
+      19.0021768
+     ],
+     [
+      72.826697,
+      19.0020748
+     ],
+     [
+      72.826566,
+      19.0020661
+     ],
+     [
+      72.8264705,
+      19.0021331
+     ],
+     [
+      72.8262286,
+      19.0021418
+     ],
+     [
+      72.8261578,
+      19.002187
+     ],
+     [
+      72.8261223,
+      19.002254
+     ],
+     [
+      72.8261716,
+      19.002388
+     ],
+     [
+      72.8263725,
+      19.0024601
+     ],
+     [
+      72.8264551,
+      19.0026152
+     ],
+     [
+      72.8265121,
+      19.0026444
+     ],
+     [
+      72.8266151,
+      19.0026304
+     ],
+     [
+      72.8266226,
+      19.0025496
+     ],
+     [
+      72.8266899,
+      19.0026667
+     ],
+     [
+      72.826502,
+      19.0030355
+     ],
+     [
+      72.8264178,
+      19.00304
+     ],
+     [
+      72.8263842,
+      19.0030936
+     ],
+     [
+      72.8263967,
+      19.0031681
+     ],
+     [
+      72.8264927,
+      19.0032904
+     ],
+     [
+      72.8264826,
+      19.0034791
+     ],
+     [
+      72.8265815,
+      19.0035408
+     ],
+     [
+      72.8266418,
+      19.0035185
+     ],
+     [
+      72.82675,
+      19.0033121
+     ],
+     [
+      72.8268711,
+      19.0032826
+     ],
+     [
+      72.8269194,
+      19.0032317
+     ],
+     [
+      72.8269183,
+      19.0031765
+     ],
+     [
+      72.8268593,
+      19.0031303
+     ],
+     [
+      72.8267141,
+      19.0031468
+     ],
+     [
+      72.8266352,
+      19.0031299
+     ],
+     [
+      72.8265895,
+      19.0030839
+     ],
+     [
+      72.8272346,
+      19.0028645
+     ],
+     [
+      72.8274071,
+      19.0026658
+     ],
+     [
+      72.8274551,
+      19.0026621
+     ],
+     [
+      72.8275449,
+      19.0025847
+     ],
+     [
+      72.8276343,
+      19.0024379
+     ],
+     [
+      72.8275906,
+      19.0021847
+     ],
+     [
+      72.8274603,
+      19.0021471
+     ],
+     [
+      72.827412,
+      19.0021949
+     ],
+     [
+      72.8270656,
+      19.0021709
+     ],
+     [
+      72.8270669,
+      19.0021415
+     ],
+     [
+      72.8280732,
+      19.0019695
+     ],
+     [
+      72.8282863,
+      19.001907
+     ],
+     [
+      72.8288714,
+      19.0016153
+     ],
+     [
+      72.8290387,
+      19.0018855
+     ],
+     [
+      72.8284699,
+      19.0022288
+     ],
+     [
+      72.8276598,
+      19.0028133
+     ],
+     [
+      72.8269912,
+      19.0034139
+     ],
+     [
+      72.8263809,
+      19.0036086
+     ],
+     [
+      72.8261268,
+      19.0028478
+     ],
+     [
+      72.8257774,
+      19.0028011
+     ],
+     [
+      72.8257996,
+      19.0020196
+     ],
+     [
+      72.825378,
+      19.0019998
+     ]
+    ]
+   ]
+  }
+ },
+ "Lodha Park, Worli, Mumbai": null,
+ "Lodha Park, Mumbai": {
+  "lat": 19.004574,
+  "lng": 72.829118,
+  "osm": "way/113493159",
+  "cls": "historic:industrial",
+  "display": "Lodha Park, Senapati Bapat Marg, Lower Parel, G/S Ward, Mumbai Zone 2, Mumbai, Mumbai City District, Maharashtra, 400013, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8274431,
+      19.0043855
+     ],
+     [
+      72.8299595,
+      19.0032219
+     ],
+     [
+      72.8307903,
+      19.0047624
+     ],
+     [
+      72.8309234,
+      19.0051338
+     ],
+     [
+      72.8309077,
+      19.005479
+     ],
+     [
+      72.8295865,
+      19.0053455
+     ],
+     [
+      72.8294689,
+      19.0052799
+     ],
+     [
+      72.8293631,
+      19.0050177
+     ],
+     [
+      72.8289783,
+      19.0050262
+     ],
+     [
+      72.8290663,
+      19.0060356
+     ],
+     [
+      72.8290566,
+      19.0062154
+     ],
+     [
+      72.8283746,
+      19.0062204
+     ],
+     [
+      72.8281841,
+      19.0057265
+     ],
+     [
+      72.8274431,
+      19.0043855
+     ]
+    ]
+   ]
+  }
+ },
+ "Omkar 1973, Worli, Mumbai": {
+  "lat": 19.0093692,
+  "lng": 72.8234397,
+  "osm": "way/603657825",
+  "cls": "landuse:residential",
+  "display": "Omkar 1973, Worli, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8230651,
+      19.009222
+     ],
+     [
+      72.8231925,
+      19.0087535
+     ],
+     [
+      72.8233447,
+      19.0084758
+     ],
+     [
+      72.8238296,
+      19.008459
+     ],
+     [
+      72.8237482,
+      19.0098711
+     ],
+     [
+      72.8237623,
+      19.0101388
+     ],
+     [
+      72.8233624,
+      19.0101823
+     ],
+     [
+      72.8232279,
+      19.0100752
+     ],
+     [
+      72.8230651,
+      19.009222
+     ]
+    ]
+   ]
+  }
+ },
+ "Indiabulls Blu, Worli, Mumbai": null,
+ "Indiabulls Blu, Mumbai": {
+  "lat": 18.9975609,
+  "lng": 72.820681,
+  "osm": "way/924453773",
+  "cls": "landuse:residential",
+  "display": "Indiabulls Blu, Nehru Nagar, G/S Ward, Mumbai Zone 2, Mumbai, Mumbai City District, Maharashtra, 400018, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8191365,
+      18.9975135
+     ],
+     [
+      72.8192212,
+      18.9974705
+     ],
+     [
+      72.8191756,
+      18.9969576
+     ],
+     [
+      72.8199398,
+      18.9969752
+     ],
+     [
+      72.8215614,
+      18.9967481
+     ],
+     [
+      72.8216576,
+      18.9973688
+     ],
+     [
+      72.8213346,
+      18.9973915
+     ],
+     [
+      72.8212828,
+      18.9974299
+     ],
+     [
+      72.821298,
+      18.9983084
+     ],
+     [
+      72.8201899,
+      18.9983187
+     ],
+     [
+      72.8201137,
+      18.9976083
+     ],
+     [
+      72.8200099,
+      18.9974744
+     ],
+     [
+      72.8191941,
+      18.9977713
+     ],
+     [
+      72.8191365,
+      18.9975135
+     ]
+    ]
+   ]
+  }
+ },
+ "Oberoi Three Sixty West, Worli, Mumbai": null,
+ "Oberoi Three Sixty West, Mumbai": null,
+ "Raheja Vivarea, Mahalaxmi, Mumbai": null,
+ "Raheja Vivarea, Mumbai": null,
+ "Imperial Towers, Tardeo, Mumbai": null,
+ "Imperial Towers, Mumbai": null,
+ "Tardeo, Mumbai": {
+  "lat": 18.9749183,
+  "lng": 72.8134203,
+  "osm": "way/353204215",
+  "cls": "building:apartments",
+  "display": "Raheja Excelsior, Tardeo, Pandit Madan Mohan Malviya Marg, Cowasji Jehangir Colony, Tulsi Wadi, D Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400034, India",
+  "geojson": null
+ },
+ "Antilia, Cumballa Hill, Mumbai": {
+  "lat": 18.9680551,
+  "lng": 72.8095766,
+  "osm": "way/48743709",
+  "cls": "building:apartments",
+  "display": "Antilia, Altamount Road (S K Barodawala Marg), Breach Candy, Cumballa Hill, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400036, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8092411,
+      18.9679642
+     ],
+     [
+      72.8096146,
+      18.9677721
+     ],
+     [
+      72.8096524,
+      18.9678378
+     ],
+     [
+      72.809716,
+      18.9678051
+     ],
+     [
+      72.8099489,
+      18.96821
+     ],
+     [
+      72.8095714,
+      18.9684041
+     ],
+     [
+      72.809449,
+      18.9681913
+     ],
+     [
+      72.8093649,
+      18.9682345
+     ],
+     [
+      72.8092411,
+      18.9679642
+     ]
+    ]
+   ]
+  }
+ },
+ "Kalpataru Avana, Parel, Mumbai": {
+  "lat": 18.9988363,
+  "lng": 72.8425903,
+  "osm": "way/935074807",
+  "cls": "landuse:residential",
+  "display": "Kalpataru Avana, Lal Baug, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400033, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8420147,
+      18.9984037
+     ],
+     [
+      72.8421695,
+      18.9983366
+     ],
+     [
+      72.8420698,
+      18.9980709
+     ],
+     [
+      72.842582,
+      18.997985
+     ],
+     [
+      72.8431843,
+      18.9992689
+     ],
+     [
+      72.8425059,
+      18.999555
+     ],
+     [
+      72.8420147,
+      18.9984037
+     ]
+    ]
+   ]
+  }
+ },
+ "Ashok Towers, Parel, Mumbai": null,
+ "Ashok Towers, Mumbai": {
+  "lat": 18.9972015,
+  "lng": 72.8390253,
+  "osm": "way/430029989",
+  "cls": "landuse:residential",
+  "display": "Peninsula Ashok Towers, Lal Baug, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400033, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8371614,
+      18.9962628
+     ],
+     [
+      72.8373005,
+      18.9958917
+     ],
+     [
+      72.838515,
+      18.9962774
+     ],
+     [
+      72.8385428,
+      18.9963417
+     ],
+     [
+      72.8391084,
+      18.9966018
+     ],
+     [
+      72.8398191,
+      18.9971131
+     ],
+     [
+      72.8400556,
+      18.9970401
+     ],
+     [
+      72.8403946,
+      18.9974737
+     ],
+     [
+      72.8408003,
+      18.9980935
+     ],
+     [
+      72.8394035,
+      18.9983989
+     ],
+     [
+      72.8387605,
+      18.9979953
+     ],
+     [
+      72.8380326,
+      18.9977141
+     ],
+     [
+      72.8377408,
+      18.9968765
+     ],
+     [
+      72.8375054,
+      18.9969536
+     ],
+     [
+      72.8371614,
+      18.9962628
+     ]
+    ]
+   ]
+  }
+ },
+ "Runwal Sanctuary, Mulund West, Mumbai": null,
+ "Runwal Sanctuary, Mumbai": null,
+ "Mulund West, Mumbai": {
+  "lat": 19.1719717,
+  "lng": 72.9511956,
+  "osm": "node/4306945142",
+  "cls": "place:suburb",
+  "display": "Mulund West, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400080, India",
+  "geojson": null
+ },
+ "Lodha Amara, Thane West, Mumbai": null,
+ "Lodha Amara, Mumbai": null,
+ "Thane West, Mumbai": {
+  "lat": 19.0263069,
+  "lng": 73.0106254,
+  "osm": "way/1270054492",
+  "cls": "leisure:park",
+  "display": "Jewels, Navi Mumbai, Nerul West, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+  "geojson": null
+ },
+ "Hiranandani Gardens, Powai, Mumbai": {
+  "lat": 19.1183882,
+  "lng": 72.911464,
+  "osm": "way/959543434",
+  "cls": "place:neighbourhood",
+  "display": "Hiranandani Gardens, Powai, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400076, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.904763,
+      19.1137269
+     ],
+     [
+      72.9057193,
+      19.1136959
+     ],
+     [
+      72.9057214,
+      19.1128126
+     ],
+     [
+      72.9070169,
+      19.1127742
+     ],
+     [
+      72.9077382,
+      19.1113868
+     ],
+     [
+      72.9100263,
+      19.1110133
+     ],
+     [
+      72.9113835,
+      19.1110792
+     ],
+     [
+      72.9125529,
+      19.1115557
+     ],
+     [
+      72.9136312,
+      19.1123768
+     ],
+     [
+      72.91354,
+      19.1128533
+     ],
+     [
+      72.9140818,
+      19.1132486
+     ],
+     [
+      72.9141891,
+      19.113644
+     ],
+     [
+      72.9138619,
+      19.1142573
+     ],
+     [
+      72.9143039,
+      19.1149521
+     ],
+     [
+      72.9139441,
+      19.1155943
+     ],
+     [
+      72.9144673,
+      19.1161832
+     ],
+     [
+      72.9150964,
+      19.1165456
+     ],
+     [
+      72.9160076,
+      19.1175671
+     ],
+     [
+      72.9163778,
+      19.1188292
+     ],
+     [
+      72.9173647,
+      19.1184447
+     ],
+     [
+      72.9178777,
+      19.1192702
+     ],
+     [
+      72.9169625,
+      19.1196604
+     ],
+     [
+      72.9176706,
+      19.1205525
+     ],
+     [
+      72.9175928,
+      19.1209453
+     ],
+     [
+      72.9166931,
+      19.1212689
+     ],
+     [
+      72.9165468,
+      19.1212519
+     ],
+     [
+      72.9163966,
+      19.1213355
+     ],
+     [
+      72.9156965,
+      19.1213634
+     ],
+     [
+      72.9155141,
+      19.1196706
+     ],
+     [
+      72.9127064,
+      19.1200286
+     ],
+     [
+      72.9130283,
+      19.1212148
+     ],
+     [
+      72.9131189,
+      19.1224853
+     ],
+     [
+      72.9135282,
+      19.1224916
+     ],
+     [
+      72.9135272,
+      19.1231165
+     ],
+     [
+      72.9132916,
+      19.1238753
+     ],
+     [
+      72.912006,
+      19.1235733
+     ],
+     [
+      72.9098761,
+      19.1237101
+     ],
+     [
+      72.9093021,
+      19.1236543
+     ],
+     [
+      72.9089802,
+      19.1234009
+     ],
+     [
+      72.9087871,
+      19.1231729
+     ],
+     [
+      72.9086262,
+      19.1226204
+     ],
+     [
+      72.9083741,
+      19.1214699
+     ],
+     [
+      72.9081917,
+      19.1210847
+     ],
+     [
+      72.9079664,
+      19.1208059
+     ],
+     [
+      72.907607,
+      19.120593
+     ],
+     [
+      72.9060389,
+      19.1199218
+     ],
+     [
+      72.9062497,
+      19.1184592
+     ],
+     [
+      72.9060617,
+      19.1175475
+     ],
+     [
+      72.9070464,
+      19.1180131
+     ],
+     [
+      72.906467,
+      19.1158691
+     ],
+     [
+      72.9060164,
+      19.1157539
+     ],
+     [
+      72.9058496,
+      19.114029
+     ],
+     [
+      72.9047899,
+      19.1140261
+     ],
+     [
+      72.904763,
+      19.1137269
+     ]
+    ]
+   ]
+  }
+ },
+ "Powai, Mumbai": {
+  "lat": 19.1187195,
+  "lng": 72.9073476,
+  "osm": "node/4759418251",
+  "cls": "place:suburb",
+  "display": "Powai, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400076, India",
+  "geojson": null
+ },
+ "Hiranandani Estate, Thane West, Mumbai": null,
+ "Hiranandani Estate, Mumbai": null,
+ "Lake Homes, Powai, Mumbai": null,
+ "Lake Homes, Mumbai": {
+  "lat": 19.1165361,
+  "lng": 72.8965357,
+  "osm": "way/360330511",
+  "cls": "water:reservoir",
+  "display": "Lake Homes pond, Chandivali, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8959089,
+      19.1160119
+     ],
+     [
+      72.895958,
+      19.1158997
+     ],
+     [
+      72.8960545,
+      19.1158743
+     ],
+     [
+      72.8963388,
+      19.1159656
+     ],
+     [
+      72.8968377,
+      19.1162747
+     ],
+     [
+      72.8970032,
+      19.1165897
+     ],
+     [
+      72.897004,
+      19.116888
+     ],
+     [
+      72.8970408,
+      19.1170561
+     ],
+     [
+      72.8970032,
+      19.117203
+     ],
+     [
+      72.8966285,
+      19.1171364
+     ],
+     [
+      72.8962951,
+      19.1169293
+     ],
+     [
+      72.8961511,
+      19.1167968
+     ],
+     [
+      72.8960867,
+      19.1164825
+     ],
+     [
+      72.8960108,
+      19.1162856
+     ],
+     [
+      72.895915,
+      19.1161784
+     ],
+     [
+      72.8959089,
+      19.1160119
+     ]
+    ]
+   ]
+  }
+ },
+ "Oberoi Splendor, Jogeshwari East, Mumbai": {
+  "lat": 19.1404894,
+  "lng": 72.8647504,
+  "osm": "way/628887309",
+  "cls": "landuse:residential",
+  "display": "Oberoi Splendor, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400060, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8624342,
+      19.1418662
+     ],
+     [
+      72.8624421,
+      19.1413932
+     ],
+     [
+      72.8624924,
+      19.1411168
+     ],
+     [
+      72.8626986,
+      19.1410918
+     ],
+     [
+      72.8627792,
+      19.1409594
+     ],
+     [
+      72.8628624,
+      19.1405819
+     ],
+     [
+      72.8630984,
+      19.1403969
+     ],
+     [
+      72.8633961,
+      19.1402626
+     ],
+     [
+      72.8641037,
+      19.1400371
+     ],
+     [
+      72.8643751,
+      19.1399357
+     ],
+     [
+      72.864469,
+      19.1398673
+     ],
+     [
+      72.8645602,
+      19.139695
+     ],
+     [
+      72.8645763,
+      19.1395657
+     ],
+     [
+      72.864469,
+      19.1392439
+     ],
+     [
+      72.8646809,
+      19.1392591
+     ],
+     [
+      72.8647962,
+      19.1396063
+     ],
+     [
+      72.8648552,
+      19.1396646
+     ],
+     [
+      72.8650698,
+      19.1397659
+     ],
+     [
+      72.8653058,
+      19.1398343
+     ],
+     [
+      72.8662151,
+      19.139809
+     ],
+     [
+      72.8662768,
+      19.1400219
+     ],
+     [
+      72.8664298,
+      19.1401015
+     ],
+     [
+      72.8665853,
+      19.1407668
+     ],
+     [
+      72.863836,
+      19.14138
+     ],
+     [
+      72.8627416,
+      19.1418767
+     ],
+     [
+      72.8624342,
+      19.1418662
+     ]
+    ]
+   ]
+  }
+ },
+ "Oberoi Exquisite, Goregaon East, Mumbai": {
+  "lat": 19.1714878,
+  "lng": 72.8639635,
+  "osm": "way/925230211",
+  "cls": "landuse:residential",
+  "display": "Oberoi Exquisite, Dindoshi, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8626851,
+      19.1721314
+     ],
+     [
+      72.8638774,
+      19.1708695
+     ],
+     [
+      72.8645342,
+      19.1708035
+     ],
+     [
+      72.8647236,
+      19.1721061
+     ],
+     [
+      72.8644983,
+      19.1722885
+     ],
+     [
+      72.8641443,
+      19.1724101
+     ],
+     [
+      72.8638063,
+      19.1724354
+     ],
+     [
+      72.863302,
+      19.1723594
+     ],
+     [
+      72.8626851,
+      19.1721314
+     ]
+    ]
+   ]
+  }
+ },
+ "Oberoi Esquire, Goregaon East, Mumbai": {
+  "lat": 19.1699546,
+  "lng": 72.8635127,
+  "osm": "way/925230210",
+  "cls": "landuse:residential",
+  "display": "Oberoi Esquire, Dindoshi, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8625431,
+      19.1694952
+     ],
+     [
+      72.864332,
+      19.1692939
+     ],
+     [
+      72.8643728,
+      19.1693727
+     ],
+     [
+      72.8645342,
+      19.1708035
+     ],
+     [
+      72.8636287,
+      19.1708946
+     ],
+     [
+      72.8635745,
+      19.1704139
+     ],
+     [
+      72.8626398,
+      19.1705078
+     ],
+     [
+      72.8625431,
+      19.1694952
+     ]
+    ]
+   ]
+  }
+ },
+ "Oberoi Sky City, Borivali East, Mumbai": {
+  "lat": 19.2218217,
+  "lng": 72.8634596,
+  "osm": "way/925230192",
+  "cls": "building:apartments",
+  "display": "Oberoi Sky City, C, Dattapada Road, Jai Jawan Nagar, Borivali East, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400066, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8632365,
+      19.2218888
+     ],
+     [
+      72.8633768,
+      19.2217007
+     ],
+     [
+      72.8634577,
+      19.2217545
+     ],
+     [
+      72.8635656,
+      19.2217011
+     ],
+     [
+      72.8636949,
+      19.221934
+     ],
+     [
+      72.8635952,
+      19.2219834
+     ],
+     [
+      72.8636127,
+      19.2220763
+     ],
+     [
+      72.8633089,
+      19.2220315
+     ],
+     [
+      72.863323,
+      19.2219463
+     ],
+     [
+      72.8632365,
+      19.2218888
+     ]
+    ]
+   ]
+  }
+ },
+ "Oberoi Eternia, Mulund West, Mumbai": {
+  "lat": 19.1716686,
+  "lng": 72.9391224,
+  "osm": "way/634122561",
+  "cls": "landuse:residential",
+  "display": "Oberoi Eternia, Mulund Colony, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.9372025,
+      19.1723416
+     ],
+     [
+      72.93816,
+      19.1718374
+     ],
+     [
+      72.9395574,
+      19.170477
+     ],
+     [
+      72.9399115,
+      19.1702262
+     ],
+     [
+      72.9399759,
+      19.1703704
+     ],
+     [
+      72.9395603,
+      19.1706934
+     ],
+     [
+      72.9397897,
+      19.1710007
+     ],
+     [
+      72.9399568,
+      19.1708932
+     ],
+     [
+      72.9402404,
+      19.1712688
+     ],
+     [
+      72.9403419,
+      19.171191
+     ],
+     [
+      72.940405,
+      19.1713206
+     ],
+     [
+      72.9377603,
+      19.1731852
+     ],
+     [
+      72.9372025,
+      19.1723416
+     ]
+    ]
+   ]
+  }
+ },
+ "Godrej Platinum, Vikhroli East, Mumbai": null,
+ "Godrej Platinum, Mumbai": {
+  "lat": 19.1027281,
+  "lng": 72.9277405,
+  "osm": "way/436606793",
+  "cls": "landuse:residential",
+  "display": "Godrej Platinum, Pirojsha Godrej Nagar, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400079, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.9267217,
+      19.1028283
+     ],
+     [
+      72.9274352,
+      19.102509
+     ],
+     [
+      72.9274835,
+      19.1025926
+     ],
+     [
+      72.9289601,
+      19.1020308
+     ],
+     [
+      72.9290967,
+      19.1020865
+     ],
+     [
+      72.9291177,
+      19.1022152
+     ],
+     [
+      72.9290434,
+      19.1022917
+     ],
+     [
+      72.9289981,
+      19.1024252
+     ],
+     [
+      72.928779,
+      19.1026205
+     ],
+     [
+      72.9270007,
+      19.1034062
+     ],
+     [
+      72.9267217,
+      19.1028283
+     ]
+    ]
+   ]
+  }
+ },
+ "Godrej The Trees, Vikhroli East, Mumbai": null,
+ "Godrej The Trees, Mumbai": null,
+ "Vikhroli East, Mumbai": {
+  "lat": 19.1172592,
+  "lng": 72.9355194,
+  "osm": "node/1640260042",
+  "cls": "place:suburb",
+  "display": "Vikhroli East, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400083, India",
+  "geojson": null
+ },
+ "Kanakia Paris, Bandra Kurla Complex, Mumbai": null,
+ "Kanakia Paris, Mumbai": {
+  "lat": 19.0666076,
+  "lng": 72.8518848,
+  "osm": "way/960135862",
+  "cls": "landuse:residential",
+  "display": "Kanakia Paris, Bandra East, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.851353,
+      19.0668585
+     ],
+     [
+      72.8517783,
+      19.0660542
+     ],
+     [
+      72.8524205,
+      19.0663566
+     ],
+     [
+      72.8519806,
+      19.0671653
+     ],
+     [
+      72.8514066,
+      19.0669802
+     ],
+     [
+      72.851353,
+      19.0668585
+     ]
+    ]
+   ]
+  }
+ },
+ "Rustomjee Seasons, Bandra East, Mumbai": {
+  "lat": 19.0575792,
+  "lng": 72.8505279,
+  "osm": "way/922843135",
+  "cls": "landuse:residential",
+  "display": "Rustomjee Seasons, Bandra East, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8497543,
+      19.0569186
+     ],
+     [
+      72.8500582,
+      19.056582
+     ],
+     [
+      72.8509831,
+      19.0573281
+     ],
+     [
+      72.8508319,
+      19.0574956
+     ],
+     [
+      72.851039,
+      19.0576627
+     ],
+     [
+      72.8511962,
+      19.0574887
+     ],
+     [
+      72.8517263,
+      19.0579165
+     ],
+     [
+      72.8512128,
+      19.0584396
+     ],
+     [
+      72.8498157,
+      19.0573391
+     ],
+     [
+      72.8500252,
+      19.0571349
+     ],
+     [
+      72.8497543,
+      19.0569186
+     ]
+    ]
+   ]
+  }
+ },
+ "Rustomjee Elements, Andheri West, Mumbai": null,
+ "Rustomjee Elements, Mumbai": null,
+ "Andheri West, Mumbai": {
+  "lat": 19.1172495,
+  "lng": 72.833968,
+  "osm": "node/884364390",
+  "cls": "place:suburb",
+  "display": "Andheri West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400058, India",
+  "geojson": null
+ },
+ "Rustomjee Urbania, Thane West, Mumbai": null,
+ "Rustomjee Urbania, Mumbai": null,
+ "Lodha Bellissimo, Mahalaxmi, Mumbai": null,
+ "Lodha Bellissimo, Mumbai": {
+  "lat": 18.9868477,
+  "lng": 72.8282846,
+  "osm": "way/594501292",
+  "cls": "building:apartments",
+  "display": "Lodha Bellissimo, Junior Boricha Marg, Shantinagar, Mahalakshmi, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400011, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8281637,
+      18.987302
+     ],
+     [
+      72.8282213,
+      18.987105
+     ],
+     [
+      72.8282122,
+      18.9866132
+     ],
+     [
+      72.8282969,
+      18.9864015
+     ],
+     [
+      72.8284138,
+      18.9864473
+     ],
+     [
+      72.8283469,
+      18.9866518
+     ],
+     [
+      72.8284363,
+      18.9866537
+     ],
+     [
+      72.8284308,
+      18.9867271
+     ],
+     [
+      72.8283454,
+      18.9867312
+     ],
+     [
+      72.8283477,
+      18.9868279
+     ],
+     [
+      72.8283633,
+      18.9870567
+     ],
+     [
+      72.8284324,
+      18.9870564
+     ],
+     [
+      72.8284317,
+      18.9871331
+     ],
+     [
+      72.8283556,
+      18.9871293
+     ],
+     [
+      72.8282956,
+      18.9873161
+     ],
+     [
+      72.8281637,
+      18.987302
+     ]
+    ]
+   ]
+  }
+ },
+ "Lodha Palava City, Dombivli East, Mumbai": null,
+ "Lodha Palava City, Mumbai": null,
+ "Dombivli East, Mumbai": {
+  "lat": 19.1930221,
+  "lng": 73.1043431,
+  "osm": "way/359935636",
+  "cls": "building:yes",
+  "display": "darshancomplex, mumbai, Gavdevi Mandir Rd, Sagaon, Dombivli, Dombivali, Kalyan Subdistrict, Thane, Maharashtra, 421203, India",
+  "geojson": null
+ },
+ "Raheja Exotica, Madh Island, Mumbai": null,
+ "Raheja Exotica, Mumbai": {
+  "lat": 19.1485576,
+  "lng": 72.7959041,
+  "osm": "way/923350139",
+  "cls": "landuse:residential",
+  "display": "Raheja Exotica, P/N Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.79336,
+      19.1472395
+     ],
+     [
+      72.7937218,
+      19.1468223
+     ],
+     [
+      72.794053,
+      19.1463762
+     ],
+     [
+      72.794237,
+      19.1459533
+     ],
+     [
+      72.7946977,
+      19.1461366
+     ],
+     [
+      72.7954009,
+      19.1463021
+     ],
+     [
+      72.7959203,
+      19.146176
+     ],
+     [
+      72.7959573,
+      19.1463187
+     ],
+     [
+      72.7962246,
+      19.1462552
+     ],
+     [
+      72.7962969,
+      19.147582
+     ],
+     [
+      72.7970357,
+      19.1482129
+     ],
+     [
+      72.7973021,
+      19.1482418
+     ],
+     [
+      72.7973656,
+      19.1484725
+     ],
+     [
+      72.7977608,
+      19.1490708
+     ],
+     [
+      72.7972168,
+      19.1490902
+     ],
+     [
+      72.7971513,
+      19.1499691
+     ],
+     [
+      72.7976121,
+      19.1501185
+     ],
+     [
+      72.7971296,
+      19.1504233
+     ],
+     [
+      72.7971883,
+      19.1507956
+     ],
+     [
+      72.7967403,
+      19.1510792
+     ],
+     [
+      72.7965186,
+      19.1509003
+     ],
+     [
+      72.7963823,
+      19.1507607
+     ],
+     [
+      72.7965394,
+      19.1502022
+     ],
+     [
+      72.7965509,
+      19.1500386
+     ],
+     [
+      72.7963731,
+      19.1497834
+     ],
+     [
+      72.7962507,
+      19.1497354
+     ],
+     [
+      72.7953478,
+      19.149622
+     ],
+     [
+      72.7952716,
+      19.1492729
+     ],
+     [
+      72.7952323,
+      19.1492097
+     ],
+     [
+      72.7949852,
+      19.1492075
+     ],
+     [
+      72.7946643,
+      19.1486534
+     ],
+     [
+      72.7945069,
+      19.1486416
+     ],
+     [
+      72.7942493,
+      19.148462
+     ],
+     [
+      72.7940469,
+      19.1484736
+     ],
+     [
+      72.7938813,
+      19.1482708
+     ],
+     [
+      72.7938506,
+      19.1481144
+     ],
+     [
+      72.7934826,
+      19.1477204
+     ],
+     [
+      72.79336,
+      19.1472395
+     ]
+    ]
+   ]
+  }
+ },
+ "Raheja Heights, Malad East, Mumbai": {
+  "lat": 19.184126,
+  "lng": 72.8553911,
+  "osm": "way/275407793",
+  "cls": "landuse:residential",
+  "display": "Raheja tipco heights, Malad East, P/N Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400097, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.854714,
+      19.183956
+     ],
+     [
+      72.8553427,
+      19.1836909
+     ],
+     [
+      72.8557693,
+      19.1834153
+     ],
+     [
+      72.8561297,
+      19.1836759
+     ],
+     [
+      72.8559833,
+      19.1842959
+     ],
+     [
+      72.8558054,
+      19.1843967
+     ],
+     [
+      72.8558094,
+      19.1845872
+     ],
+     [
+      72.8557619,
+      19.1846693
+     ],
+     [
+      72.8556749,
+      19.1847254
+     ],
+     [
+      72.8549275,
+      19.1847664
+     ],
+     [
+      72.854714,
+      19.183956
+     ]
+    ]
+   ]
+  }
+ },
+ "Kalpataru Radiance, Goregaon West, Mumbai": {
+  "lat": 19.1570578,
+  "lng": 72.8411564,
+  "osm": "way/933788394",
+  "cls": "landuse:residential",
+  "display": "Kalpataru Radiance, Goregaon West, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, India",
+  "geojson": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      72.8401568,
+      19.1567112
+     ],
+     [
+      72.8421472,
+      19.1566893
+     ],
+     [
+      72.842156,
+      19.1574043
+     ],
+     [
+      72.8401655,
+      19.1574259
+     ],
+     [
+      72.8401568,
+      19.1567112
+     ]
+    ]
+   ]
+  }
+ },
+ "Dosti Imperia, Thane West, Mumbai": null,
+ "Dosti Imperia, Mumbai": null,
+ "Piramal Vaikunth, Thane West, Mumbai": null
+}
