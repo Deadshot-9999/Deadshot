@@ -59,7 +59,11 @@
   "Vikhroli",
   "Bhandup",
   "Mulund",
-  "Thane",
+  [
+   "Thane",
+   19.1862,
+   72.9757
+  ],
   "Kalyan",
   "Dombivli",
   "Chembur",

@@ -40,8 +40,10 @@ export const km = (a, b) => {
 
 // Localities: settlements only (suburb / neighbourhood / town), never a random building that shares the name.
 const locCache = new Map();
+const OVERRIDES = JSON.parse(fs.readFileSync(path.resolve(path.dirname(CACHE), '../locality-overrides.json'), 'utf8'));
 export async function locality(name) {
   if (locCache.has(name)) return locCache.get(name);
+  if (Array.isArray(OVERRIDES[name])) { const [lat, lng] = OVERRIDES[name]; const o = { lat, lng, osm: null, cls: 'place:override', display: name }; locCache.set(name, o); return o; }
   const base = name.replace(/\s+(East|West)$/i, '');
   let hit = null;
   for (const q of [name, `${name}, Mumbai`, base]) {

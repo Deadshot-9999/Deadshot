@@ -345,8 +345,7 @@ function hover(id) {
 function setStyle(mode) {
   S.style = mode;
   document.querySelectorAll('.layer-menu [data-mode]').forEach(b => b.classList.toggle('on', b.dataset.mode === mode));
-  map.setStyle(STYLES[mode]);
-  map.once('style.load', () => { nightify(); addLayers(); });
+  map.setStyle(STYLES[mode], { diff: false });
 }
 function fitMatches() {
   if (!map || !matches.length) return;
@@ -357,7 +356,9 @@ function fitMatches() {
 }
 function buildMap() {
   map = new maplibregl.Map({ container: 'map', style: STYLES.night, center: D.city.center, zoom: D.city.zoom, attributionControl: { compact: true }, maxPitch: 70, dragRotate: true });
-  map.on('style.load', function first() { map.off('style.load', first); nightify(); addLayers(); });
+  // Re-add our layers whenever a style (re)loads without them.
+  const ensure = () => { if (map.getSource('soc') || !map.isStyleLoaded()) return; nightify(); addLayers(); };
+  map.on('styledata', ensure); map.on('idle', ensure);
   for (const l of ['soc-dot', 'soc-dim']) {
     map.on('click', l, e => openCard(e.features[0].properties.id, true));
     map.on('mouseenter', l, e => { map.getCanvas().style.cursor = 'pointer'; hover(e.features[0].properties.id); });
